@@ -1,0 +1,6 @@
+framework module Pods_e_BanBase {
+  umbrella header "Pods-e-BanBase-umbrella.h"
+
+  export *
+  module * { export * }
+}
